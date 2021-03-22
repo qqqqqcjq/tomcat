@@ -1,0 +1,98 @@
+22-Mar-2021 16:12:27.927 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWP\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:12:27.934 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWP\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:12:27.935 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWP\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:12:27.935 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWP\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:12:28.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+22-Mar-2021 16:12:28.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+22-Mar-2021 16:12:28.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+22-Mar-2021 16:12:28.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Mar-2021 16:12:28.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+22-Mar-2021 16:12:28.720 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Mar-2021 16:12:28.721 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_211\jre
+22-Mar-2021 16:12:28.721 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+22-Mar-2021 16:12:28.721 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2021 16:12:28.721 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\ideaWP\tomcat\catalina-home
+22-Mar-2021 16:12:28.722 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\ideaWP\tomcat\catalina-home
+22-Mar-2021 16:12:28.722 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+22-Mar-2021 16:12:28.722 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+22-Mar-2021 16:12:28.722 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+22-Mar-2021 16:12:28.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+22-Mar-2021 16:12:28.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2021 16:12:28.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+22-Mar-2021 16:12:28.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:D:\ideas\lib\idea_rt.jar=9016:D:\ideas\bin
+22-Mar-2021 16:12:28.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Mar-2021 16:12:28.724 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;%JAVA_HOME\bin%;%JAVA_HOME\jre%;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\;D:\maven\apache-maven-3.5.0\bin\;%ERLANG_HOME%\bin;C:\mysql-5.7.25-winx64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\gradle\gradle-4.10.2\bin;D:\apache-ant-1.10.7\bin;C:\Program Files (x86)\pycSafefile\x64;C:\Program Files\Git\cmd;C:\Users\chengjiaqing\AppData\Local\Microsoft\WindowsApps;;C:\Users\chengjiaqing\AppData\Local\Programs\Fiddler;.]
+22-Mar-2021 16:12:29.003 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2021 16:12:29.684 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Mar-2021 16:12:29.720 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+22-Mar-2021 16:12:29.730 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Mar-2021 16:12:29.731 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1750 ms
+22-Mar-2021 16:12:29.773 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2021 16:12:29.773 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+22-Mar-2021 16:12:29.849 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWP\tomcat\catalina-home\webapps\docs]
+22-Mar-2021 16:12:33.493 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:12:33.558 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWP\tomcat\catalina-home\webapps\docs] has finished in [3,708] ms
+22-Mar-2021 16:12:33.558 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWP\tomcat\catalina-home\webapps\examples]
+22-Mar-2021 16:12:34.337 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:12:34.367 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWP\tomcat\catalina-home\webapps\examples] has finished in [809] ms
+22-Mar-2021 16:12:34.367 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWP\tomcat\catalina-home\webapps\host-manager]
+22-Mar-2021 16:12:34.514 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:12:34.531 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWP\tomcat\catalina-home\webapps\host-manager] has finished in [164] ms
+22-Mar-2021 16:12:34.531 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWP\tomcat\catalina-home\webapps\manager]
+22-Mar-2021 16:12:34.699 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:12:34.699 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWP\tomcat\catalina-home\webapps\manager] has finished in [168] ms
+22-Mar-2021 16:12:34.699 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWP\tomcat\catalina-home\webapps\ROOT]
+22-Mar-2021 16:12:34.832 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:12:34.832 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWP\tomcat\catalina-home\webapps\ROOT] has finished in [133] ms
+22-Mar-2021 16:12:34.847 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2021 16:12:34.863 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+22-Mar-2021 16:12:34.868 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 5137 ms
+22-Mar-2021 16:32:49.599 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWPGit\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:32:49.599 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWPGit\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:32:49.599 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWPGit\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:32:49.599 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [D:\ideaWPGit\tomcat\catalina-home\lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/@VERSION@
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         @VERSION_NUMBER@
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_211\jre
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_211-b12
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\ideaWPGit\tomcat\catalina-home
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\ideaWPGit\tomcat\catalina-home
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:D:\ideas\lib\idea_rt.jar=9681:D:\ideas\bin
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Mar-2021 16:32:50.498 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;%JAVA_HOME\bin%;%JAVA_HOME\jre%;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\System32\OpenSSH\;D:\maven\apache-maven-3.5.0\bin\;%ERLANG_HOME%\bin;C:\mysql-5.7.25-winx64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\gradle\gradle-4.10.2\bin;D:\apache-ant-1.10.7\bin;C:\Program Files (x86)\pycSafefile\x64;C:\Program Files\Git\cmd;C:\Users\chengjiaqing\AppData\Local\Microsoft\WindowsApps;;C:\Users\chengjiaqing\AppData\Local\Programs\Fiddler;.]
+22-Mar-2021 16:32:50.780 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Mar-2021 16:32:51.806 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Mar-2021 16:32:51.839 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+22-Mar-2021 16:32:51.855 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Mar-2021 16:32:51.855 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2198 ms
+22-Mar-2021 16:32:51.981 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Mar-2021 16:32:51.981 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+22-Mar-2021 16:32:52.059 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\docs]
+22-Mar-2021 16:32:53.378 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:32:53.425 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\docs] has finished in [1,366] ms
+22-Mar-2021 16:32:53.425 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\examples]
+22-Mar-2021 16:32:53.943 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:32:53.991 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\examples] has finished in [566] ms
+22-Mar-2021 16:32:53.991 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\host-manager]
+22-Mar-2021 16:32:54.210 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:32:54.226 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\host-manager] has finished in [219] ms
+22-Mar-2021 16:32:54.226 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\manager]
+22-Mar-2021 16:32:54.681 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:32:54.681 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\manager] has finished in [455] ms
+22-Mar-2021 16:32:54.681 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\ROOT]
+22-Mar-2021 16:32:54.995 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Mar-2021 16:32:54.995 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\ideaWPGit\tomcat\catalina-home\webapps\ROOT] has finished in [314] ms
+22-Mar-2021 16:32:54.995 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Mar-2021 16:32:55.011 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+22-Mar-2021 16:32:55.011 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 3161 ms
